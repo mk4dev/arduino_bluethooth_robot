@@ -12,6 +12,6 @@ In my internship we didn't produce the Robot based on my 3D design due to the co
 
 Additional links:
 - The Android app and Arduino script are based on an opensource project by  [Nurgak]( https://github.com/Nurgak/Android-Bluetooth-Remote-Control).
-- The view the 3D concept of the Robot : [Robot Comp](https://a360.co/3p0acsz).
+- To view the 3D concept of the Robot : [Robot Comp](https://a360.co/3p0acsz).
 
 
