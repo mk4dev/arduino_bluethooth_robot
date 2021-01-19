@@ -11,8 +11,7 @@ There are three part :
 In my internship we didn't produce the Robot based on my 3D design due to the cold of cutting the parts, we only did the cut for the Robot arm, and for the chassis we used a commonly cheap one for Arduino projects
 
 Additional links:
-
-The Android app and Arduino script are based on an opensource project by  [Nurgak]( https://github.com/Nurgak/Android-Bluetooth-Remote-Control).
-The view the 3D concept of the Robot : [Robot COmp](https://a360.co/3p0acsz).
+- The Android app and Arduino script are based on an opensource project by  [Nurgak]( https://github.com/Nurgak/Android-Bluetooth-Remote-Control).
+- The view the 3D concept of the Robot : [Robot Comp](https://a360.co/3p0acsz).
 
 
